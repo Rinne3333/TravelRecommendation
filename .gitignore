@@ -1,0 +1,14 @@
+.idea/
+.nested-repo-metadata-backup/
+**/.DS_Store
+
+**/node_modules/
+**/target/
+**/dist/
+**/*.log
+
+**/.env
+**/.env.local
+**/.env.*.local
+
+vue3_tourism_backend/src/main/resources/application-prod.yml
