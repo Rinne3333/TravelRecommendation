@@ -1,0 +1,11 @@
+执行时间：2026-09-11 21:55:20 +08:00
+执行命令：.\mvnw.cmd test
+运行环境：Amazon Corretto JDK 8（1.8.0_452）
+
+FrontendSecretExposureDetectorTest：4 通过
+SseEventDecoderTest：5 通过
+TravelAiGuardTest：21 通过
+TravelAiServiceTest：6 通过
+
+Tests run: 36, Failures: 0, Errors: 0, Skipped: 0
+BUILD SUCCESS
